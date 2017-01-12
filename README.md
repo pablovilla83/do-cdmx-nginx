@@ -1,4 +1,4 @@
-# do-cdmx-nginx
+# Instructions for the Docker from scratch workshop
 
 Basic Docker Commands:
   -Commands
