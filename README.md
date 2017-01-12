@@ -96,7 +96,7 @@ docker push pablovilla83/do-cdmx-nginx
 
 Your repo might show that there hasn't been any push. This is an open bug.
 https://github.com/docker/hub-feedback/issues/301
-If you got the digest confirmation of your push, your up and ready to go.
+If you got a digest as confirmation of your push, your up and ready to go.
 
 #Switch back to your digital ocean droplet
 ```bash
