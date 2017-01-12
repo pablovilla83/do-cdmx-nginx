@@ -8,7 +8,7 @@ Basic Docker Commands:
   - docker rm <name|id>
 
 Connect to the droplet
-  - ssh root@host
+  - ssh root@<<host>>
 
 Login to your Docker account
   - docker login
