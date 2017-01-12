@@ -1,12 +1,11 @@
 # Instructions for the Docker from scratch workshop
 
 Basic Docker Commands:
-  -Commands
-    - docker run <image>
-    - docker start <name|id>
-    - docker stop <name|id>
-    - docker ps [-a include stopped containers]
-    - docker rm <name|id>
+  - docker run <image>
+  - docker start <name|id>
+  - docker stop <name|id>
+  - docker ps [-a include stopped containers]
+  - docker rm <name|id>
 
 Connect to the droplet
   - ssh root@host
