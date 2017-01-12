@@ -9,7 +9,7 @@ Basic Docker Commands:
 
 Connect to the droplet
 ```bash
-  - ssh root@<<host>>
+ssh root@[hostname]
 ```
 
 Login to your Docker account
