@@ -1,5 +1,8 @@
 # Instructions for the Docker from scratch workshop
 
+**If you are new to Digital Ocean use this referral link to get a $10 USD credit.**
+[Sign Up](https://m.do.co/c/4e5639176a25)
+
 Basic Docker Commands:
   - docker run <image>
   - docker start <name|id>
